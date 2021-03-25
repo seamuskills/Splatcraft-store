@@ -26,16 +26,8 @@
       "ingredients":
       [
         {
-          "item": "splatcraft:sardinium",
-          "count": 7
-        },
-        {
-          "item": "splatcraft:power_egg",
-          "count": 8
-        },
-        {
-          "item": "minecraft:ink_sac",
-          "count": 10
+          "item": "squidyen:1k_yen",
+          "count": 2
         }
       ]
     },
@@ -48,20 +40,12 @@
       "ingredients":
       [
         {
-          "item": "splatcraft:sardinium",
-          "count": 5
-        },
-        {
-          "item": "splatcraft:power_egg",
-          "count": 14
-        },
-        {
-          "item": "minecraft:ink_sac",
+          "item": "squidyen:1k_yen",
           "count": 4
         },
         {
-          "item": "minecraft:green_dye",
-          "count": 2
+          "item": "squidyen:100_yen",
+          "count": 3
         }
       ]
     }
